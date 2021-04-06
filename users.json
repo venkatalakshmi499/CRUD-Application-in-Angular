@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "venky",
+      "mobile": "4578685233",
+      "email": "abc@gmail.com",
+      "password": "ufh456",
+      "id": 2
+    },
+    {
+      "name": "krish",
+      "mobile": "456899556",
+      "email": "krish@gmail.com",
+      "password": "ghdsjkl",
+      "id": 3
+    },
+    {
+      "name": "sravs",
+      "mobile": "8585984568",
+      "email": "sarvani@gmail.com",
+      "password": "gdhskjdgsgh",
+      "id": 4
+    }
+  ]
+}
